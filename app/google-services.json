@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160678674635",
+    "project_id": "dev-android-ng",
+    "storage_bucket": "dev-android-ng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160678674635:android:7841746715ae20b461db4e",
+        "android_client_info": {
+          "package_name": "com.example.devandroidng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160678674635-5uf7daqvlvktm3rcq9r4v8dgn94r5dhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devandroidng",
+            "certificate_hash": "8006b16d3adaf43e4fd15f49b543e269e81a5752"
+          }
+        },
+        {
+          "client_id": "160678674635-icghnp163gq0o4kud4f0q909l3uqa2u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi50jF9rIzVq0CMDnrR_JEtQoVg1mqjwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160678674635-icghnp163gq0o4kud4f0q909l3uqa2u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
